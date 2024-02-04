@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mysivdev&label=Profile%20views&color=0e75b6&style=flat" alt="mysivdev" /> </p>
 
-- 🔭 I’m currently working on **Backend with Node.js/PostgreSQL**
+- 🔭 I’m currently working on **Some Beginner -> Intermediat Projects**
 
-- 🌱 I’m currently learning **JS, React**
+- 🌱 I’m currently learning **JS, JQuery, Node.js PostgreSQL**
 
 - 💬 Ask me about **HTML/CSS**
 
