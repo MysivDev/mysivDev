@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, Postgree/SQL**
 
-- 💬 Ask me about **HTML/CSS/Javascript**
+- 💬 Ask me about **HTML/CSS/Javascript/Express**
 
 - 📫 How to reach me **MysivOfficial@gmail.com**
 
